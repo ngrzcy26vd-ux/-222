@@ -1,6 +1,6 @@
 streamlit
 openai
-opencv-python dotenv 
+load_dotenv
 os
 json
 datetime
