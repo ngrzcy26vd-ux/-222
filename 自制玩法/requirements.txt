@@ -3,4 +3,10 @@ pillow
 numpy
 openai
 zhipu
-opencv-python
+opencv-python dotenv 
+os
+json
+datetime
+base64
+Image
+io
