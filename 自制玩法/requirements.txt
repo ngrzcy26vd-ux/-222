@@ -1,9 +1,2 @@
 streamlit
-openai
-load_dotenv
-os
-json
-datetime
-base64
-Image
-io
+zhipu
