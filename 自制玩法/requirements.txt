@@ -1,8 +1,5 @@
 streamlit
-pillow
-numpy
 openai
-zhipu
 opencv-python dotenv 
 os
 json
